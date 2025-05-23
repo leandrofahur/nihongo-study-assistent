@@ -1,2 +1,6 @@
-streamlit==1.32.2
+# Streamlit
+streamlit==1.45.0
+
+# Japanese
 genanki==0.13.1 
+
